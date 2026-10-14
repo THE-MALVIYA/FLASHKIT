@@ -1,0 +1,7 @@
+{
+  "name": "SERVER LOAD STUDIO",
+  "description": "Professional server load testing and processing studio featuring a dark banking-server aesthetic, 10-minute real-time telemetry processing, live logs, multi-stage diagnostics, and official completion audit reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
